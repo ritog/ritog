@@ -6,11 +6,13 @@
 - Interested in Mathematics
 
 ____
-![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=social)
+- ![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
+- [Website](https://ghosh-r.github.io)
+- [Medium](https://medium.com/@r-ghosh)
+- [LinkedIn](https://www.linkedin.com/in/ritobrata-ghosh/)
+- [Kaggle](https://www.kaggle.com/truthr)
 
-[Blog](https://ghosh-r.github.io)
 
-[Medium](https://medium.com/@r-ghosh)
 
 <!--
 **ghosh-r/ghosh-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
