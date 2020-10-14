@@ -1,4 +1,16 @@
-### Hi there 👋
+### Ritobrata Ghosh
+- I am interested in cutting edge Deep Learning.
+- Currently learning from fast.ai
+- Learning front-end web development focusing on React.js
+- Interested in Machine Learning, and Data Visualization
+- Interested in Mathematics
+
+____
+![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=social)
+
+[Blog](https://ghosh-r.github.io)
+
+[Medium](https://medium.com/@r-ghosh)
 
 <!--
 **ghosh-r/ghosh-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
