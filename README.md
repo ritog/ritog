@@ -1,9 +1,10 @@
 ### Ritobrata Ghosh
 - I am interested in cutting edge Deep Learning.
-- Currently learning from fast.ai
-- Learning front-end web development focusing on React.js
+- Currently studying about Generative Adversarial Networks from deeplearning.ai
+- Interested in Deep Reinforcement Learning
 - Interested in Machine Learning, and Data Visualization
 - Interested in Mathematics
+- Currently learning Rust!
 
 ____
 - ![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
