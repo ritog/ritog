@@ -1,10 +1,10 @@
 ### Ritobrata Ghosh
-- I am interested in cutting edge Deep Learning.
-- Currently studying about Generative Adversarial Networks from deeplearning.ai
-- Interested in Deep Reinforcement Learning
+- I am interested in cutting edge **Deep Learning**
+- Interested in **Generative Adversarial Networks**
+- Interested in **Deep Reinforcement Learning**
 - Interested in Machine Learning, and Data Visualization
 - Interested in Mathematics
-- Currently learning Rust!
+- Currently building a computer from scratch from first principles
 
 ____
 - ![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
