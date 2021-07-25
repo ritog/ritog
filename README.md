@@ -1,10 +1,13 @@
 ### Ritobrata Ghosh
 - I am interested in cutting edge **Deep Learning**
+- Focused in the area of **Computer Vision**
 - Interested in **Generative Adversarial Networks**
 - Interested in **Deep Reinforcement Learning**
 - Interested in Machine Learning, and Data Visualization
 - Interested in Mathematics
 - Currently building a computer from scratch from first principles
+- Interested in big-Transformer models like CLIP, DALL-E
+- Learning Embedded AI from HarvardX.
 
 ____
 - ![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
