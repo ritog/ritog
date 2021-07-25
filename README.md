@@ -11,7 +11,7 @@ ____
 - [Website](https://ghosh-r.github.io)
 - [Medium](https://medium.com/@r-ghosh)
 - [LinkedIn](https://www.linkedin.com/in/ritobrata-ghosh/)
-- [Kaggle](https://www.kaggle.com/truthr){:target='_blank'}
+- [Kaggle](https://www.kaggle.com/truthr){:target="_blank"}
 
 
 
