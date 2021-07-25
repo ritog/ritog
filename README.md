@@ -111,15 +111,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosh-r&hide_border=true&layout=compact" width="45%" align="right"/>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
