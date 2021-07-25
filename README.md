@@ -127,6 +127,11 @@
 ## Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons from the Panel of Four 4x GMs of Kaggle | Data Science and Machine Learning](https://ritogh-agg.tumblr.com/post/657697895703838720)
+- [A Gentle Introduction to the Hugging Face API](https://ritogh-agg.tumblr.com/post/657697816402149376)
+- [Creating Any Boolean Function](https://ritogh-agg.tumblr.com/post/657697728595443712)
+- [The Best 5 + 1 Podcasts for Machine Learning Learners and Practitioners](https://ritogh-agg.tumblr.com/post/657697610770137088)
+- [How To Use Numerical Data with ConvNets](https://ritogh-agg.tumblr.com/post/657697018418003969)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
