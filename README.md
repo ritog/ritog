@@ -10,12 +10,24 @@
 - Learning Embedded AI from HarvardX.
 
 ____
-- ![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
-- [Website](https://ghosh-r.github.io)
-- [Medium](https://medium.com/@r-ghosh)
-- [LinkedIn](https://www.linkedin.com/in/ritobrata-ghosh/)
-- [Kaggle](https://www.kaggle.com/truthr)
+![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
 
+<a href="https://ghosh-r.github.io" target="_blank">
+<img src=https://img.shields.io/badge/Website-Ritobrata%20Ghosh-blue?&style=for-the-badge&logo=github&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
+
+
+<a href="https://ghosh-r.medium.com" target="_blank">
+<img src=https://img.shields.io/badge/-Medium-orange?&style=for-the-badge&logo=medium&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/ritobrata-ghosh/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://kaggle.com/truthr" target="_blank">
+<img src=https://img.shields.io/badge/-Kaggle-blue?&style=for-the-badge&logo=kaggle&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 
 <!--
