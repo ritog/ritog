@@ -13,8 +13,10 @@
 
 ## Links
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
-
+<a href="https://twitter.com/AllesistKode" target="_blank">
+<img src=https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
+</a>
+     
 <a href="https://ghosh-r.github.io" target="_blank">
 <img src=https://img.shields.io/badge/Website-Ritobrata%20Ghosh-blue?&style=for-the-badge&logo=github&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
