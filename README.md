@@ -1,14 +1,17 @@
 # [Ritobrata Ghosh](https://ghosh-r.github.io)
 
+Deep Learning Research Engineer and CS Master's Student.
+
 - I am interested in cutting edge **Deep Learning**
 - Focused in the area of **Computer Vision**
-- Interested in **Generative Adversarial Networks**
-- Interested in **Deep Reinforcement Learning**
+- Interested in **Graph Neural Networks** for Vision
+- Interested in **Self-Supervised Learning**
 - Interested in Machine Learning, and Data Visualization
 - Interested in Mathematics
 - Currently building a computer from scratch from first principles
-- Interested in big-Transformer models like CLIP, DALL-E
-- Learning Embedded AI from HarvardX.
+- Interested in multimodal-AI models like CLIP, DALL-E
+- Learning Embedded AI from HarvardX
+- Love to learn new programming languages (knows, Haskell, Julia, Scheme, Elixir, Common Lisp, but hasn't worked with them professionally)
 
 
 ## Links
