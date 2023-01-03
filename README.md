@@ -6,7 +6,7 @@ Deep Learning Research Engineer and CS Master's Student.
 - Focused in the area of **Computer Vision**
 - Interested in **Graph Neural Networks** for Vision
 - Interested in **Self-Supervised Learning**
-- Interested in Machine Learning, and Data Visualization
+- Interested in Machine Learning
 - Interested in Mathematics
 - Currently building a computer from scratch from first principles
 - Interested in multimodal-AI models like CLIP, DALL-E
