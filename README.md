@@ -35,7 +35,7 @@ Deep Learning Research Engineer and CS Master's Student.
 </a>
 
 <a href="https://kaggle.com/truthr" target="_blank">
-<img src=https://img.shields.io/badge/-Kaggle-blue?&style=for-the-badge&logo=kaggle&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Kaggle-blue?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://huggingface.co/ghosh-r" target="_blank">
@@ -59,7 +59,7 @@ Deep Learning Research Engineer and CS Master's Student.
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="FORTRAN" height="50" />
 </div>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Racket" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg" alt="Ruby" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg" alt="Ruby" height="50" />
 <img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" height="50" />
 </td><td valign="top" width="33%">
 
