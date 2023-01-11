@@ -6,7 +6,6 @@ Deep Learning Research Engineer and CS Master's Student.
 - Focused in the area of **Computer Vision**
 - Interested in **Graph Neural Networks** for Vision
 - Interested in **Self-Supervised Learning**
-- Interested in Machine Learning
 - Interested in Mathematics
 - Currently building a computer from scratch from first principles
 - Interested in multimodal-AI models like CLIP, DALL-E
@@ -60,7 +59,7 @@ Deep Learning Research Engineer and CS Master's Student.
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="FORTRAN" height="50" />
 </div>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Racket" height="50" />
-<img style="margin: 10px" src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg" alt="Ruby" height="50" />
 <img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" height="50" />
 </td><td valign="top" width="33%">
 
