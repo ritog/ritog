@@ -2,6 +2,15 @@
 
 Deep Learning Research Engineer and CS Master's Student.
 
+____
+
+* 2 Years experience in professional Deep Learning research (Vision).
+* Won Google Open Source Software Expert Prize.
+* Won 1st and 3rd places for two projects in HuggingFace x Google Cloud hackathon.
+* Taught classes in Stanford Code in Place 2021.
+
+___
+
 - I am interested in cutting edge **Deep Learning**
 - Focused in the area of **Computer Vision**
 - Interested in **Graph Neural Networks** for Vision
