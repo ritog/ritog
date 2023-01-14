@@ -1,4 +1,4 @@
-# [Ritobrata Ghosh](https://ghosh-r.github.io)
+# [Rito Ghosh](https://ghosh-r.github.io)
 
 Deep Learning Research Engineer and CS Master's Student.
 
