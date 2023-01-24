@@ -2,6 +2,8 @@
 
 Deep Learning Research Engineer and CS Master's Student.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&pause=600&color=AFC5C2&width=800&height=200&lines=Hi!+I+am+Rito.;I+am+a+Research+Engineer+working+in+Vision+and+Deep+Learning.;I+am+deeply+interested+in%3A+non-linear+dynamics+and+chaos%2C;artificial+life%2C+Comp+Neuro%2C+Edge+AI%2C+IoT%2C;programming%2C+Math%2C+and+Deep+Reinforcement+Learning.;I+love+to+read%2C+swim%2C+and+play+music.;Welcome+to+my+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 ____
 
 * 2 Years experience in professional Deep Learning research (Vision).
