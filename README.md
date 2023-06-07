@@ -21,7 +21,7 @@ ___
 - Currently building a computer from scratch from first principles
 - Interested in multimodal-AI models like CLIP, DALL-E
 - Learning Embedded AI from HarvardX
-- Love to learn new programming languages (knows, Haskell, Julia, Scheme, Elixir, Common Lisp, but hasn't worked with them professionally)
+- Love to learn new programming languages (knows Haskell, Julia, Elixir, Racket, OCaml, but hasn't worked with them professionally)
 
 
 ## Links
