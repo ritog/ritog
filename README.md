@@ -15,11 +15,8 @@ ___
 
 - I am interested in cutting edge **Deep Learning**
 - Focused in the area of **Computer Vision**
-- Interested in **Graph Neural Networks** for Vision
-- Interested in **Self-Supervised Learning**
 - Interested in Mathematics
 - Currently building a computer from scratch from first principles
-- Interested in multimodal-AI models like CLIP, DALL-E
 - Learning Embedded AI from HarvardX
 - Love to learn new programming languages (knows Haskell, Julia, Elixir, Racket, OCaml, but hasn't worked with them professionally)
 
@@ -37,7 +34,7 @@ ___
 <br>
 <br>
 
-<a href="https://ghosh-r.medium.com" target="_blank">
+<a href="https://ritog.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/-Medium-orange?&style=for-the-badge&logo=medium&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 
@@ -49,7 +46,7 @@ ___
 <img src=https://img.shields.io/badge/-Kaggle-blue?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://huggingface.co/ghosh-r" target="_blank">
+<a href="https://huggingface.co/ritog" target="_blank">
 <img src=https://img.shields.io/badge/-Hugging%20Face-yellow?&style=for-the-badge&logo=data:https://huggingface.co/front/assets/huggingface_logo.svg&logoColor=white alt=huggingface style="margin-bottom: 5px;" />
 </a>
 
