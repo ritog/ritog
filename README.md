@@ -120,8 +120,8 @@ ___
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ghosh-r&show_icons=true&count_private=true&hide_border=true" width="45%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosh-r&hide_border=true&layout=compact" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ritog&show_icons=true&count_private=true&hide_border=true" width="45%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritog&hide_border=true&layout=compact" width="45%" align="right"/>
 </div>
 
 
