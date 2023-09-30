@@ -1,12 +1,12 @@
 # [Rito Ghosh](https://ghosh-r.github.io)
 
-Deep Learning Research Engineer and CS Master's Student.
+Deep Learning Research Engineer.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&pause=600&color=AFC5C2&center=true&width=800&height=200&lines=Hi!+I+am+Rito.;I+am+a+Research+Engineer+working+in+Vision+and+Deep+Learning.;I+am+deeply+interested+in%3A+non-linear+dynamics+and+chaos%2C;artificial+life%2C+Comp+Neuro%2C+Edge+AI%2C+IoT%2C;programming%2C+Math%2C+and+Deep+Reinforcement+Learning.;I+love+to+read%2C+swim%2C+and+play+music.;Welcome+to+my+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ____
 
-* 2 Years experience in professional Deep Learning research (Vision).
+* ~3 Years experience in professional Deep Learning research (Vision).
 * Won Google Open Source Software Expert Prize.
 * Won 1st and 3rd places for two projects in HuggingFace x Google Cloud hackathon.
 * Taught classes in Stanford Code in Place 2021.
@@ -14,10 +14,11 @@ ____
 ___
 
 - I am interested in cutting edge **Deep Learning**
-- Focused in the area of **Computer Vision**
+- I am deeply interested in Computational Neuroscience and Scientific Machine Learning
+- I love functional and array languages
 - Interested in Mathematics
 - Currently building a computer from scratch from first principles
-- Learning Embedded AI from HarvardX
+- Learning Embedded AI
 - Love to learn new programming languages (knows Haskell, Julia, Elixir, Racket, OCaml, but hasn't worked with them professionally)
 
 
@@ -135,7 +136,7 @@ ___
 <br>
 <br>
 
-## Latest Blog Post
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Lessons from the Panel of Four 4x GMs of Kaggle | Data Science and Machine Learning](https://ritogh-agg.tumblr.com/post/657697895703838720)
