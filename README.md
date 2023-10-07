@@ -123,11 +123,11 @@ ___
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from the Panel of Four 4x GMs of Kaggle | Data Science and Machine Learning](https://ritogh-agg.tumblr.com/post/657697895703838720)
-- [A Gentle Introduction to the Hugging Face API](https://ritogh-agg.tumblr.com/post/657697816402149376)
-- [Creating Any Boolean Function](https://ritogh-agg.tumblr.com/post/657697728595443712)
-- [The Best 5 + 1 Podcasts for Machine Learning Learners and Practitioners](https://ritogh-agg.tumblr.com/post/657697610770137088)
-- [How To Use Numerical Data with ConvNets](https://ritogh-agg.tumblr.com/post/657697018418003969)
+- [Search Engines and Faster Horses](https://rito.substack.com/p/search-engines-and-faster-horses)
+- [Creating Any Boolean Function](https://rito.substack.com/p/nand2tetris-1-any-boolean-function)
+- [Asking, Helping, and Thoughtful Behaviour](https://rito.substack.com/p/asking-helping-and-thoughtful-behaviour)
+- [Deep RL, GANs, Vision, Deep Learning, and more!](https://rito.substack.com/p/coming-soon)
+- [The Best 5 + 1 Podcasts for Machine Learning Learners and Practitioners](https://rito.substack.com/p/2021-02-18-best-5-podcasts)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
