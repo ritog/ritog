@@ -22,17 +22,16 @@ ___
 
 ## Links
 
-![Static Badge](https://img.shields.io/badge/%40AllesistKode-_-blue?style=for-the-badge&logo=X&labelColor=blue&link=https%3A%2F%2Fx.com%2FAllesistKode) ![Static Badge](https://img.shields.io/badge/%F0%9F%93%84CV-Ritobrata_Ghosh-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fritog.github.com) ![Static Badge](https://img.shields.io/badge/ML_Blog-orange?style=for-the-badge&logo=github&link=https%3A%2F%2Fritog.github.io%2Fblog) ![Static Badge](https://img.shields.io/badge/Blog-%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94-orange?style=for-the-badge&labelColor=blue&color=grey&link=https%3A%2F%2Fconvoluted.bearblog.dev)
+[![Static Badge](https://img.shields.io/badge/%40AllesistKode-_-blue?style=for-the-badge&logo=X&labelColor=blue&link=https%3A%2F%2Fx.com%2FAllesistKode)](https://x.com/AllesistKode) [![Static Badge](https://img.shields.io/badge/%F0%9F%93%84CV-Ritobrata_Ghosh-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fritog.github.com)](https://ritog.github.io) [![Static Badge](https://img.shields.io/badge/ML_Blog-orange?style=for-the-badge&logo=github&link=https%3A%2F%2Fritog.github.io%2Fblog)](https://ritog.github.io/blog) [![Static Badge](https://img.shields.io/badge/%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94-Blog-orange?style=for-the-badge&labelColor=blue&color=grey&link=https%3A%2F%2Fconvoluted.bearblog.dev)](https://convoluted.bearblog.dev)
 
-![Static Badge](https://img.shields.io/badge/Mastodon-sigmoid.social-grey?style=for-the-badge&logo=mastodon&link=https%3A%2F%2Fsigmoid.social%2F%40rito) ![Static Badge](https://img.shields.io/badge/YouTube-ritoLAB-green?style=flat-square&logo=youtube&link=https%3A%2F%2Fyoutube.com%2F%40ritoLAB) ![Static Badge](https://img.shields.io/badge/Bluesky-cyan?style=for-the-badge&logo=bsky&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fritog.bsky.social) ![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97HuggingFace-orange?style=for-the-badge&link=https%3A%2F%2Fritog.github.io%2Fblog)
-
-
-![Static Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fritog.medium.com) ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fritobrata-ghosh) ![Static Badge](https://img.shields.io/badge/Substack-red?style=for-the-badge&logo=substack&link=https%3A%2F%2Frito.substack.com)
- ![Static Badge](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&link=https%3A%2F%2Fkaggle.com%2Ftruthr)
+[![Static Badge](https://img.shields.io/badge/Mastodon-grey?style=for-the-badge&logo=mastodon&link=https%3A%2F%2Fsigmoid.social%2F%40rito)](https://sigmoid.social/@rito) [![Static Badge](https://img.shields.io/badge/YouTube-ritoLAB-green?style=flat-square&logo=youtube&link=https%3A%2F%2Fyoutube.com%2F%40ritoLAB)](https://youtube.com/@ritoLAB) [![Static Badge](https://img.shields.io/badge/Bluesky-cyan?style=for-the-badge&logo=bsky&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fritog.bsky.social)](https://bsky.app/profile/ritog.bsky.social) [![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97HuggingFace-orange?style=for-the-badge&link=https%3A%2F%2Fhuggingface.co%2Fritog)](https://huggingface.co/ritog)
 
 
+[![Static Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fritog.medium.com)](https://ritog.medium.com) [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fritobrata-ghosh)](https://linkedin.com/in/ritobrata-ghosh) [![Static Badge](https://img.shields.io/badge/Substack-red?style=for-the-badge&logo=substack&link=https%3A%2F%2Frito.substack.com)](https://rito.substack.com) [![Static Badge](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&link=https%3A%2F%2Fkaggle.com%2Ftruthr)](https://kaggle.com/truthr)
 
-![Static Badge](https://img.shields.io/badge/Patreon-green?style=for-the-badge&logo=patreon&link=https%3A%2F%2Fpatreon.com%2Fritog) ![Static Badge](https://img.shields.io/badge/liberapay-green?style=for-the-badge&logo=liberapay&link=https%3A%2F%2Fliberapay.com%2Fritog) ![Static Badge](https://img.shields.io/badge/Ko--Fi-green?style=for-the-badge&logo=ko-fi&link=https%3A%2F%2Fko-fi.com%2Fritog)
+
+
+[![Static Badge](https://img.shields.io/badge/Patreon-green?style=for-the-badge&logo=patreon&link=https%3A%2F%2Fpatreon.com%2Fritog)](https://patreon.com/ritog) [![Static Badge](https://img.shields.io/badge/liberapay-green?style=for-the-badge&logo=liberapay&link=https%3A%2F%2Fliberapay.com%2Fritog)](https://liberapay.com/ritog) [![Static Badge](https://img.shields.io/badge/Ko--Fi-green?style=for-the-badge&logo=ko-fi&link=https%3A%2F%2Fko-fi.com%2Fritog)](https://ko-fi.com/ritog)
 
 
 
@@ -52,6 +51,8 @@ ___
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="FORTRAN" height="50" />
 </div>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Racket" height="50" />
+<img style="margin: 10px" src="https://i.imgur.com/2to3R2X.png" alt="Haskell" height="50" />
+<img style="margin: 10px" src="https://i.imgur.com/6zmPfN2.png" alt="J" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" height="50" />
 <img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" height="50" />
 </td><td valign="top" width="33%">
@@ -61,13 +62,16 @@ ___
 ### Frameworks  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />
-<img style="margin: 10px" src="https://docs.fast.ai/images/company_logo.png" alt="fastai" height="50" />
+<img style="margin: 10px" src="https://i.imgur.com/Bp7m4sK.png" alt="fastai" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/google/jax/36d06dbb61a0bdb27ca7d60de151284bb2543fbb/images/jax_logo.svg" alt="JAX" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
+<img style="margin: 10px" src="https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-lite-logo-social.png" alt="TensorFlow Lite" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="50" />
+<img style="margin: 10px" src="https://i.imgur.com/z62STwf.png" alt="XGBoost" height="50" />
+ 
 </div>
 
 </td><td valign="top" width="33%">
