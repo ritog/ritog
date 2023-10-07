@@ -13,11 +13,9 @@ ____
 
 ___
 
-- I am interested in cutting edge **Deep Learning**
 - I am deeply interested in Computational Neuroscience and Scientific Machine Learning
 - I love functional and array languages
 - Interested in Mathematics
-- Currently building a computer from scratch from first principles
 - Learning Embedded AI
 - Love to learn new programming languages (knows Haskell, Julia, Elixir, Racket, OCaml, but hasn't worked with them professionally)
 
