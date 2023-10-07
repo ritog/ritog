@@ -23,7 +23,7 @@ ___
 ## Links
 
 <a href="https://twitter.com/AllesistKode" target="_blank">
-<img src=https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter)
+<img src=https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter>
 </a>
      
 <a href="https://ghosh-r.github.io" target="_blank">
