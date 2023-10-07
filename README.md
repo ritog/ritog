@@ -22,32 +22,18 @@ ___
 
 ## Links
 
-<a href="https://twitter.com/AllesistKode" target="_blank">
-<img src=https://img.shields.io/twitter/follow/AllesistKode?logoColor=%233283a8&style=for-the-badge&color=blue&logo=twitter>
-</a>
-     
-<a href="https://ghosh-r.github.io" target="_blank">
-<img src=https://img.shields.io/badge/Website-Ritobrata%20Ghosh-blue?&style=for-the-badge&logo=github&logoColor=white alt=website style="margin-bottom: 5px;" />
-</a>
+![Static Badge](https://img.shields.io/badge/%40AllesistKode-_-blue?style=for-the-badge&logo=X&labelColor=blue&link=https%3A%2F%2Fx.com%2FAllesistKode) ![Static Badge](https://img.shields.io/badge/%F0%9F%93%84CV-Ritobrata_Ghosh-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fritog.github.com) ![Static Badge](https://img.shields.io/badge/ML_Blog-orange?style=for-the-badge&logo=github&link=https%3A%2F%2Fritog.github.io%2Fblog) ![Static Badge](https://img.shields.io/badge/Blog-%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94-orange?style=for-the-badge&labelColor=blue&color=grey&link=https%3A%2F%2Fconvoluted.bearblog.dev)
 
-<br>
-<br>
+![Static Badge](https://img.shields.io/badge/Mastodon-%40rito%40sigmoid.social-grey?style=for-the-badge&logo=mastodon&link=https%3A%2F%2Fsigmoid.social%2F%40rito) ![Static Badge](https://img.shields.io/badge/YouTube-ritoLAB-green?style=flat-square&logo=youtube&link=https%3A%2F%2Fyoutube.com%2F%40ritoLAB) ![Static Badge](https://img.shields.io/badge/Bluesky-cyan?style=for-the-badge&logo=bsky&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fritog.bsky.social) ![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97HuggingFace-orange?style=for-the-badge&link=https%3A%2F%2Fritog.github.io%2Fblog)
 
-<a href="https://ritog.medium.com" target="_blank">
-<img src=https://img.shields.io/badge/-Medium-orange?&style=for-the-badge&logo=medium&logoColor=white alt=website style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.linkedin.com/in/ritobrata-ghosh/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+![Static Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fritog.medium.com) ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fritobrata-ghosh) ![Static Badge](https://img.shields.io/badge/Substack-ritoLAB-red?style=for-the-badge&logo=substack&link=https%3A%2F%2Frito.substack.com)
+ ![Static Badge](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&link=https%3A%2F%2Fkaggle.com%2Ftruthr)
 
-<a href="https://kaggle.com/truthr" target="_blank">
-<img src=https://img.shields.io/badge/-Kaggle-blue?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://huggingface.co/ritog" target="_blank">
-<img src=https://img.shields.io/badge/-Hugging%20Face-yellow?&style=for-the-badge&logo=data:https://huggingface.co/front/assets/huggingface_logo.svg&logoColor=white alt=huggingface style="margin-bottom: 5px;" />
-</a>
+
+![Static Badge](https://img.shields.io/badge/Patreon-green?style=for-the-badge&logo=patreon&link=https%3A%2F%2Fpatreon.com%2Fritog) ![Static Badge](https://img.shields.io/badge/liberapay-green?style=for-the-badge&logo=liberapay&link=https%3A%2F%2Fliberapay.com%2Fritog) ![Static Badge](https://img.shields.io/badge/Ko--Fi-green?style=for-the-badge&logo=ko-fi&link=https%3A%2F%2Fko-fi.com%2Fritog)
+
 
 
 ## My Toolset  
