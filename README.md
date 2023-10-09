@@ -127,11 +127,11 @@ ___
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Search Engines and Faster Horses](https://rito.substack.com/p/search-engines-and-faster-horses)
-- [Creating Any Boolean Function](https://rito.substack.com/p/nand2tetris-1-any-boolean-function)
-- [Asking, Helping, and Thoughtful Behaviour](https://rito.substack.com/p/asking-helping-and-thoughtful-behaviour)
-- [Deep RL, GANs, Vision, Deep Learning, and more!](https://rito.substack.com/p/coming-soon)
-- [The Best 5 + 1 Podcasts for Machine Learning Learners and Practitioners](https://rito.substack.com/p/2021-02-18-best-5-podcasts)
+- [Complete Introductory Guide to Speech to Text with Transformers](https://ritog.substack.com/p/complete-introductory-guide-to-speech)
+- [Search Engines and Faster Horses](https://ritog.substack.com/p/search-engines-and-faster-horses)
+- [Creating Any Boolean Function](https://ritog.substack.com/p/nand2tetris-1-any-boolean-function)
+- [Asking, Helping, and Thoughtful Behaviour](https://ritog.substack.com/p/asking-helping-and-thoughtful-behaviour)
+- [Deep RL, GANs, Vision, Deep Learning, and more!](https://ritog.substack.com/p/coming-soon)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
