@@ -13,11 +13,11 @@ ____
 
 ___
 
-- I am deeply interested in Computational Neuroscience and Scientific Machine Learning
-- I love functional and array languages
+- I am deeply interested in Scientific Machine Learning
+- I like functional and array languages
 - Interested in Mathematics
 - Learning Embedded AI
-- Love to learn new programming languages (knows Haskell, Julia, Elixir, Racket, OCaml, but hasn't worked with them professionally)
+- Love to learn new programming languages (knows Haskell, Julia, Elixir, Racket, OCaml, but haven't worked with them professionally)
 
 
 ## Links
