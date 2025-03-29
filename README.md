@@ -1,8 +1,8 @@
-# [Rito Ghosh](https://ghosh-r.github.io)
+# [Rito Ghosh](https://ritog.github.io)
 
 Deep Learning Research Engineer.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&pause=600&color=AFC5C2&center=true&width=800&height=200&lines=Hi!+I+am+Rito.;I+am+a+Research+Engineer+working+in+Vision+and+Deep+Learning.;I+am+deeply+interested+in%3A+non-linear+dynamics+and+chaos%2Cartificial+life%2C+Edge+AI%2C;functional+programming%2C+Math;I+love+to+read%2C+swim%2C+and+play+music.;Welcome+to+my+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=3000&pause=600&color=AFC5C2&center=true&vCenter=true&width=800&height=200&lines=Hi%2C+I+am+Rito;I+am+a+Research+Engineer+working+in+Vision+and+Deep+Learning.;I+am+deeply+interested+in+Non-Linear+Dynamics+and+chaos+theory%2C;artificial+life%2C+financial+programming%2C+and+Edge+AI.;I+like+functional+programming+and+Mathematics.;I+love+to+read%2C+write%2C+swim%2C+and+play+music.;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
 
 ____
 
@@ -13,11 +13,11 @@ ____
 
 ___
 
-- I am deeply interested in Scientific Machine Learning
-- I like functional and array languages
-- Interested in Mathematics
-- Learning Embedded AI
-- Love to learn new programming languages (knows Haskell, Julia, Elixir, Racket, OCaml, but haven't worked with them professionally)
+- I am deeply interested in Scientific Machine Learning.
+- I like functional and array languages.
+- Interested in Mathematics.
+- Learning Embedded AI.
+- Love to learn new programming languages (knows Haskell, Julia, Elixir, Racket, OCaml, but haven't worked with them professionally).
 
 
 ## Links
