@@ -9,7 +9,7 @@ ____
 * ~3 Years experience in professional Deep Learning research (Vision).
 * Won Google Open Source Software Expert Prize.
 * Won 1st and 3rd places for two projects in HuggingFace x Google Cloud hackathon.
-* Taught classes in Stanford Code in Place 2021.
+* Taught classes in Computational Neuroscience in Neuromatch Academy, Stanford Code in Place 2021.
 
 ___
 
