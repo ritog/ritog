@@ -1,4 +1,4 @@
-# [Rito Ghosh](https://ritog.github.io)
+# [Rito Ghosh](https://ritoghosh.com)
 
 Deep Learning Research Engineer.
 
